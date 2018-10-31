@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Triangle2
+namespace TriangleExercise
 {
     class Program
     {
