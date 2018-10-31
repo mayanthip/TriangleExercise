@@ -1,0 +1,11 @@
+C:\Users\mperera\source\repos\Programming-guild- exercises\bin\Debug\netcoreapp2.1\Programming-guild- exercises.deps.json
+C:\Users\mperera\source\repos\Programming-guild- exercises\bin\Debug\netcoreapp2.1\Programming-guild- exercises.runtimeconfig.json
+C:\Users\mperera\source\repos\Programming-guild- exercises\bin\Debug\netcoreapp2.1\Programming-guild- exercises.runtimeconfig.dev.json
+C:\Users\mperera\source\repos\Programming-guild- exercises\bin\Debug\netcoreapp2.1\Programming-guild- exercises.dll
+C:\Users\mperera\source\repos\Programming-guild- exercises\bin\Debug\netcoreapp2.1\Programming-guild- exercises.pdb
+C:\Users\mperera\source\repos\Programming-guild- exercises\obj\Debug\netcoreapp2.1\Programming-guild- exercises.csprojAssemblyReference.cache
+C:\Users\mperera\source\repos\Programming-guild- exercises\obj\Debug\netcoreapp2.1\Programming-guild- exercises.csproj.CoreCompileInputs.cache
+C:\Users\mperera\source\repos\Programming-guild- exercises\obj\Debug\netcoreapp2.1\Programming-guild- exercises.AssemblyInfoInputs.cache
+C:\Users\mperera\source\repos\Programming-guild- exercises\obj\Debug\netcoreapp2.1\Programming-guild- exercises.AssemblyInfo.cs
+C:\Users\mperera\source\repos\Programming-guild- exercises\obj\Debug\netcoreapp2.1\Programming-guild- exercises.dll
+C:\Users\mperera\source\repos\Programming-guild- exercises\obj\Debug\netcoreapp2.1\Programming-guild- exercises.pdb
